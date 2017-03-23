@@ -7,8 +7,6 @@ A versatile application for analytics and telemetry collection and analysis
 
 [Official Page](https://iridiumion.xyz/#/projects/kqanalytics3)
 
-[![Build Status](https://travis-ci.org/0xFireball/KQAnalytics3.svg?branch=master)](https://travis-ci.org/0xFireball/KQAnalytics3)
-
 ## About
 
 KQ Analytics provides a simple and open analytics solution for your internet service.
