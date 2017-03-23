@@ -1,4 +1,6 @@
 
+## Update: KQAnalytics3 is now the open source [IridiumIon Analytics](https://github.com/0xFireball/IIA) project!
+
 # [KQAnalytics3](https://git.io/kq3)
 
 A versatile application for analytics and telemetry collection and analysis
